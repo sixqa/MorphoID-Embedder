@@ -59,8 +59,8 @@ NA
 
 For research inquiries or collaboration opportunities, please contact:
 - **Primary Contact**: [Cheng-long Zhang] ([cheng-long.zhang@outlook.com](mailto:cheng-long.zhang@outlook.com))
-- **Lab Website**: [NA](NA)
+- **Lab Website**: [SDAU-AC](NA)
 
 ---
 
-*This repository is maintained by the Computational Biology Lab at [Your Institution]. All rights reserved.*
+*This repository is maintained by the Computational Biology Lab at SDAU-AC. All rights reserved.*
