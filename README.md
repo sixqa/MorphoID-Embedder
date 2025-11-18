@@ -21,7 +21,7 @@ Our framework consists of two key components:
    - Effectively capturing both micro-structural details and macro spatial configurations
    - Maintaining robustness against missing points and acquisition variations
 
-![System Architecture](NA)
+![System Architecture](https://pic.nximg.cn/file/20230607/11283626_230406861105_2.jpg)
 
 ## 📊 Key Results
 
